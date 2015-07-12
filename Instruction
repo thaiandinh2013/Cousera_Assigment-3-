@@ -1,0 +1,11 @@
+#The assignment below is from the course "R programming", conducted by Jonh Hopskin and Cosera.
+#More detail can be found in the link below 
+https://class.coursera.org/rprog-030/assignment/view?assignment_id=7
+https://d396qusza40orc.cloudfront.net/rprog%2Fdoc%2FProgAssignment3.pdf
+
+In summary, there are 4 questions which are
+  1) Plot the 30-day mortality rates for heart attack
+  2) Finding the best hospital in a state
+  3) Ranking hospitals by outcome in a state
+  4) Ranking hospitals in all states
+
